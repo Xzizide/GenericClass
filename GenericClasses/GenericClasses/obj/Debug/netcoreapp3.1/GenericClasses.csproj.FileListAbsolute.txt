@@ -1,0 +1,13 @@
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.exe
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.deps.json
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.json
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.dev.json
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csprojAssemblyReference.cache
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfoInputs.cache
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfo.cs
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\emil.andersson20\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.genruntimeconfig.cache
